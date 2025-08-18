@@ -15,14 +15,14 @@ https://osf.io/xftv8/
 
 ABSTRACT 
 
-This research note presents a quick re-look at the Monty-Hall Problem, refuting the widely accepted position held by the leading subject-area-experts, and establishing that there is no rational basis for a switched choice in the decision to be made by the game show guest. 
+This research report presents a deep re-look at the classical Monty-Hall Problem, refuting the widely accepted position held by the leading subject-area-experts, and establishing that there is no rational basis for a switched choice in the decision to be made by the guest of the game show. 
 
 Many a times, the additional knowledge gained, revealing a losing-chance, although leads to an updated smaller sample-space, may not be specific enough for refinement/update on the relative chances between/among the now-available alternatives in the resultant smaller sample-space. 
 
 Keywords: 	A-Priori Probability; A-Posteriori Probability; 
-		Mutually Independent Events; Joint Probability Distribution; 
+		Mutually Independent Events; Joint Probability; 
 		Mutually Exclusive Together Exhaustive Alternatives; 
-		Conditional Probability. 
+		Restricted Probability, Conditional Probability. Marginal Probability. 
 
 AMS MSC Mathematics Subject Classification:	60A99; 60C99; 62A99; 62C99. 
 
