@@ -17,7 +17,8 @@ ABSTRACT
 
 This research report presents a deep re-look at the classical Monty-Hall Problem, refuting the widely accepted position held by the leading subject-area-experts, and establishing that there is no rational basis for a switched choice in the decision to be made by the guest of the game show. 
 
-Many a times, the additional knowledge gained, revealing a losing-chance, although leads to an updated smaller sample-space, may not be specific enough for refinement/update on the relative chances between/among the now-available alternatives in the resultant smaller sample-space. 
+Logical consistency requires that any conditionality used in the evaluation process cannot be lifted after the evaluation process, implementing the decision arrived at based on that very conditionality. 
+
 
 Keywords: 	A-Priori Probability; A-Posteriori Probability; 
 		Mutually Independent Events; Joint Probability; 
