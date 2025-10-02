@@ -23,7 +23,8 @@ Logical consistency requires that any conditionality used in the evaluation proc
 Keywords: 	A-Priori Probability; A-Posteriori Probability; 
 		Mutually Independent Events; Joint Probability; 
 		Mutually Exclusive Together Exhaustive Alternatives; 
-		Restricted Probability, Conditional Probability. Marginal Probability. 
+		Restricted Probability; Conditional Probability; Marginal Probability; 
+		Monty-Hall Theorem. 
 
 AMS MSC Mathematics Subject Classification:	60A99; 60C99; 62A99; 62C99. 
 
